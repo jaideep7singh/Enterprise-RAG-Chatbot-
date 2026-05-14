@@ -45,3 +45,8 @@ The system supports:
   ## Deployment
 ```bash
 docker compose up --build
+
+  ## License
+This project is protected under a custom "All Rights Reserved" license.
+
+The code is shared strictly for portfolio and demonstration purposes only.
